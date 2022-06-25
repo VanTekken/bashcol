@@ -1,1 +1,1 @@
-"# bashcolors" 
+# bashcolors
